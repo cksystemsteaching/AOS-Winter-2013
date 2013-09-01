@@ -1,4 +1,4 @@
-IOS-Winter-2013
+AOS-Winter-2013
 ===============
 
-Introduction to Operating Systems 2013
+Advanced Operating Systems 2013
